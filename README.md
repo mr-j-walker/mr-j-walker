@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mr-j-walker
 - 👀 I’m interested in becoming a better programmer!
-- 🌱 I’m currently working on a Bachelor's of Computer Science at UNM.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working on building out my portfolio and maybe a Bachelor's in Computer Science eventually.
+- 📫 How to reach me "**Send me a message?**"
 
 
 <!---
